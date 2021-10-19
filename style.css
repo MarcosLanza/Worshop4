@@ -1,0 +1,111 @@
+.container{
+	background: white;
+	width: 1000px;
+	height: 1500px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	
+}
+body{
+	background: white;
+	display: flex;
+	justify-content: center;
+}
+
+.divone{
+	background: #01DFD7;
+	width: 900px;
+	height: 300px;
+	margin-top: 30px; 
+}
+p{
+	font-family: cursive;
+	margin: 30px;
+}
+a{
+	font-family: cursive;
+	margin: 30px;
+	background-image: linear-gradient(#2b72cc,#2B4A97);
+    border: #262829 solid 1px;
+    border-radius: 10px;
+    box-shadow: 0 1px 0 rgb(255 255 255 / 15%) inset, 0 1px 0 rgb(0 0 0 / 80%);
+    color: #fff;
+    float: left;
+    font-size: 14px;
+    height: 14px;
+    line-height: 13px;
+    margin: 3px 2px 6px 4px;
+    padding: 4px 12px;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #1a1c1d;
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+}
+.divtwo{
+	background-image: url('https://st3.depositphotos.com/1432405/13011/v/950/depositphotos_130113936-stock-illustration-electronic-appliance-icons-set-cartoon.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center center;
+	width: 900px;
+	height: 300px;
+	display: flex;direction: column-row;
+	justify-content: center;
+	 
+}
+.divthree{
+	background: #01DFD7;
+	width: 900px;
+	height: 300px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.divfour{
+	background: #ACFA58;
+	width: 900px;
+	height: 500px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+#image{
+	position: absolute;
+	left: 900px;
+	top: 120px;
+}
+#image2{
+	position: absolute;
+	left: 880px;
+	top: 110px;
+}
+
+#p1{
+	color: #0000FF;
+
+}
+#pd3{
+	font-size: 20px;
+}
+#pd4{
+	font-size: 16px;
+}
+#pd5{
+	font-size: 25px;
+}
+.principal{
+	display: flex;
+	flex-direction: row;
+}
+
+.subdiv1{
+	background: #01DFD7;
+	width: 300px;
+	height: 200px;
+	margin: 10px;
+
+}
